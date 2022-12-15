@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useeffect4-react/static/css/main.a3299edd.css",
+    "main.js": "/useeffect4-react/static/js/main.94b80789.js",
+    "index.html": "/useeffect4-react/index.html",
+    "main.a3299edd.css.map": "/useeffect4-react/static/css/main.a3299edd.css.map",
+    "main.94b80789.js.map": "/useeffect4-react/static/js/main.94b80789.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3299edd.css",
+    "static/js/main.94b80789.js"
+  ]
+}
